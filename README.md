@@ -1,38 +1,5 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -40,16 +7,13 @@ After you're finished please remove all the comments and instructions!
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#deployment)
+  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -60,58 +24,49 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello_Microverse-] <a name="about-project"></a>
+# 📖 [Hello Microverse Project] <a name="about-project"></a>
 
 
-**[Hello_Microverse-]** is an exciting endeavor in my Full Stack Development course that showcases my progress and skills in web development. This project serves as an introduction to the world of programming and various aspects of the development process.
 
+**[Hello Microverse Project]** This is a simple project that displays "hello microverse".Its a true reflection of skills I have acquired from microverse so far.
 ## 🛠 Built With <a name="built-with"></a>
-.gitignore
-
- index.html
- 
- styles.css
- 
- test.md
- 
- README.md
-
-<!-- Features -->
-
-### Key Features <a name="key-features"></a>
-
-
-- **[Following the GitHub flow rules for branch management]**
-- **[Implementing a linter for HTML and CSS]**
-- **[Ignoring irrelevant files with .gitignore]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- HTML.
+- CSS.
 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> This is a simple "Hello world" repository created to practice and demonstrate the use of tools and best practices learned in previous steps
 
 To get a local copy up and running, follow these steps.
 
-### Setup
+### Prerequisites
+In order to run this project you need:
+- vscode.
+- git.
+- set up an index.html document.
 
+### Setup
 Clone this repository to your desired folder:
 
-  sh
-  cd my-folder
-  git clone https://github.com/ReX0069/Hello_Microverse-.git
+Navigate to the  directory where you  want to clone this project in your computer.
+Clone this repository to your desired folder:git clone https://github.com/ReX0069/Hello_Microverse-.git
 
 
 ### Install
+Install this project with this command:
+`$ npm install`
 
-Install this project with:
 
-  sh
-  cd my-project
-  gem install
+### Usage
 
+To run the project, execute the following command by opening the vscode with the command `code .`
+
+### Run tests
+
+To run tests, run the following command:
+
+Run it in your local server
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -120,31 +75,20 @@ Install this project with:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **JOSECK OSUGO**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- GitHub: [@githubhandle](https://github.com/ReX0069)
+- Twitter: [@twitterhandle](https://twitter.com/RX0069)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/dev-karan-j/)
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+
+- Setting Up A Professional Github Repository.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -156,25 +100,25 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
 
+
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project, give it a star .
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
+I would like to thank microverse for issuing the project to the students.
 
-I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -182,15 +126,15 @@ I would like to thank...
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
+- **[Question 1]**
+[How long did it take you to complete the project?]**
 
-- **[Question_1]**
+  - [It being a simple project,It took me 2.5 hours ]
 
-  - [Answer_1]
+- **[Question 2]**
+[Talk about your biggest challenge in the project. What happened? How did you manage it?]
 
-- **[Question_2]**
-
-  - [Answer_2]
+  - [Answer_2][It was the Linters part.It was challenging at first(the installation and understanding the errors) however I can confidently say I can succesfully configure it as well as use it to successfully get a lot from it.]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -200,6 +144,5 @@ I would like to thank...
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
