@@ -76,7 +76,7 @@ Run it in your local server
 ## 👥 Authors <a name="authors"></a>
 
 
-👤 **JOSECK OSUGO**
+👤 **Karan Joshi**
 
 - GitHub: [@githubhandle](https://github.com/ReX0069)
 - Twitter: [@twitterhandle](https://twitter.com/RX0069)
